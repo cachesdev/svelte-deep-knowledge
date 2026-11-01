@@ -27,6 +27,10 @@ Entries list the version that introduced them. The agent reads the project's ins
 
 Last checked on 2026-11-01 against Svelte 5.57.3, SvelteKit 3.1.1, and SvelteKit 2.70.3. Async Svelte and remote functions are still experimental, and their APIs can change in minor releases.
 
+## Author notes
+
+I've been using and iterating on this skill for at least 6 months now, and it has served me well. It's a very opinionated skill in some parts so feel free to edit it to your liking. It's also a bit long and verbose, I plan to manually un-slop it at some point... Though as models progress, it's becoming less and less necessary to do.
+
 ## License
 
 [MIT](LICENSE)
